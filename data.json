@@ -1,0 +1,15 @@
+{
+    "data": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "reponse": "La capitale de la France est Paris.",
+        "categorie": "Géographie"
+      },
+      {
+        "question": "Qui a peint la Joconde ?",
+        "reponse": "La Joconde a été peinte par Leonardo da Vinci.",
+        "categorie": "Art"
+      }
+    ]
+  }
+  
